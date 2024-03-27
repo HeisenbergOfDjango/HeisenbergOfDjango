@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Nspire.AI](web.nspire.ai)
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **React.JS**
 
 - 👯 I’m looking to collaborate on [Free Books Project](https://github.com/HeisenbergOfDjango/Book-App)
 
